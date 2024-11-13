@@ -12,7 +12,7 @@ A UI for a dashboard for managing community engagement, rewards, and analytics. 
 - Platform-specific rewards (Discord, Telegram, GitHub)
 - Real-time reward feed
 
-![Rewards](./assets/rewards.png)
+![Rewards](./assets/rewards.PNG)
 
 ### 🎯 Mission Management
 - Create and manage community missions
@@ -20,7 +20,7 @@ A UI for a dashboard for managing community engagement, rewards, and analytics. 
 - Review and approve mission submissions
 - Track mission completion rates
 
-![Missions](./assets/missions.png)
+![Missions](./assets/missions.PNG)
 
 ### 🏅 Badge System
 - Create and manage achievement badges
@@ -28,7 +28,7 @@ A UI for a dashboard for managing community engagement, rewards, and analytics. 
 - Custom badge descriptions and criteria
 - Badge distribution analytics
 
-![Badges](./assets/badges.png)
+![Badges](./assets/badges.PNG)
 
 ### 👥 Tier System
 - Manage community membership tiers
@@ -36,7 +36,7 @@ A UI for a dashboard for managing community engagement, rewards, and analytics. 
 - Track member progression
 - Customizable tier colors and names
 
-![Tiers](./assets/tiers.png)
+![Tiers](./assets/tiers.PNG)
 
 ### 📊 Analytics
 - Community engagement metrics
@@ -45,7 +45,7 @@ A UI for a dashboard for managing community engagement, rewards, and analytics. 
 - Ambassador activity heatmap
 - Leaderboard tracking
 
-![Analytics](./assets/analytics.png)
+![Analytics](./assets/analytics.PNG)
 
 ## What next?
 
